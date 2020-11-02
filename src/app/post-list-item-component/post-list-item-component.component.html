@@ -1,0 +1,9 @@
+<li [ngClass]="{'list-group-item': true}">
+
+  <h4 style="background-color:green;"> Titre du post :{{postTitle}} </h4><br>
+  <h2> {{postContent}}</h2>
+  <br>
+  <h2 >{{postloveIts}}</h2><br>
+  <h2>{{postcreatedat | date: 'short'}}</h2>
+  <button (click)="onLike(postloveIts)">Love it </button> <button (click)="onDislike(postloveIts)">Don't love it</button>
+</li>
