@@ -41,7 +41,7 @@
   <h3 align="center">Projet Angular du cours d'OpenClassRoom</h3>
 
   <p align="center">
-   Le dépôt des travaux pratiques relatif au cours sur Angular d'[OpenClassRoom](https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular) 
+   Le dépôt des travaux pratiques relatif au cours sur Angular d' : [OpenClassRoom](https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular) 
     <br />
     <a href="https://github.com/Charlene19/Angular"><strong>Explore the docs »</strong></a>
     <br />
